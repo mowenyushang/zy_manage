@@ -1,0 +1,26 @@
+前缀：http://www.xmblog.info:8888
+后缀：/jeecg-boot/shop/shopInfo/list
+返回数据类型：
+{
+      "id": "01",
+      "name": "李进明",
+      "userId": "1414425953555308545",
+      "styleId": "110",
+      "introduction": "312321",
+      "notice": "31231",
+      "shopowner": "123",
+      "phone": "1231",
+      "address": "驻马店市西平县豫坡大道豫坡初中北侧约150米",
+      "province": "123123",
+      "city": "12312",
+      "region": "312321",
+      "code": "123131",
+      "logo": "312312",
+      "time": "32131",
+      "statue": 1,
+      "createTime": "2021-07-16",
+      "updateTime": null,
+      "style_id": null,
+      "styleName": "线下店铺",
+      "remarks": null
+    }
